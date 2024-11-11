@@ -4,7 +4,6 @@
 
 body{
     background: #6990f2;
-    font-family: Doto, sans-serif;
     
 }
 
@@ -48,7 +47,8 @@ body{
    
 }
 
-h1, p{
+h1{
+    font-family: Doto, sans-serif;
     text-align: center;
     color: white;
     letter-spacing: 5px;
@@ -64,6 +64,9 @@ h1, p{
     background: black;
  }
  p{
+      text-align: center;
+        color: white;
+        font-size: 30px;
     font: bolder;
     
  }
